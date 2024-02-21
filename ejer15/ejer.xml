@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ciudad codigo="AB-1234">
+  <nombre>Madrid</nombre>
+  <poblacion>6945000</poblacion>
+  <alcalde telefono="+34661435678" email="alcaldedemadrid@gmail.com">
+    <nombre>Juan</nombre>
+    <apellidos>Gómez Pérez</apellidos>
+    <edad>45</edad>
+  </alcalde>
+  <funcionarios>
+    <funcionario id="F123456789">
+      <nombre>Marcos</nombre>
+      <apellidos>Rodríguez López</apellidos>
+      <codigoPostal>28001</codigoPostal>
+      <fechaNacimiento>12/05/1988</fechaNacimiento>
+      <contrasena>M27380514%</contrasena>
+      <cuentaBancaria>ES1234 5678 9012 3456 7890 1234</cuentaBancaria>
+    </funcionario>
+    <funcionario id="F987654321">
+      <nombre>Andrea</nombre>
+      <apellidos>García Martínez</apellidos>
+      <codigoPostal>28002</codigoPostal>
+      <fechaNacimiento>15/09/1995</fechaNacimiento>
+      <contrasena>A38092017@</contrasena>
+      <cuentaBancaria>ES9876 5432 1098 7654 3210 9876</cuentaBancaria>
+    </funcionario>
+  </funcionarios>
+</ciudad>
