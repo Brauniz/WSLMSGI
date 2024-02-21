@@ -1,0 +1,28 @@
+article .lista1{
+    color: rgb(252, 251, 251);
+    background-color: purple;
+}
+article .lista2{
+    color: white;
+    background-color: purple;
+}
+footer{
+    color: white;
+    background-color: purple;
+}
+h2{
+    color: white;
+    background-color: purple;
+}
+p{
+    color: white;
+    background-color: purple;
+}
+#porro{
+    color: brown;
+    background-color: purple;
+}
+h1.Titulo{
+    background-color: black;
+    color: white;
+}
