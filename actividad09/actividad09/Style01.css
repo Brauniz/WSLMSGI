@@ -1,0 +1,23 @@
+p.tnr{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 5px;
+    text-decoration: black;
+    font-weight: 500;
+}
+h1{
+    color: blue;
+}
+#especial{
+    letter-spacing: 3px;
+    word-spacing: 8px;
+    text-indent: 10px;
+}
+h3.h3esp{
+    text-align: right;
+    weight: 30%;
+}
+p.pesp{
+    weight: 500px;
+    background-color: yellow;
+
+}

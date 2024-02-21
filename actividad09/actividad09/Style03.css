@@ -1,0 +1,71 @@
+
+li.lista3{
+    list-style-image: url(img/xbox.png);
+}
+li.lista1 {
+    list-style: none;
+  }
+  li.lista1::before {
+    content: '';
+    display: inline-block;
+    height: 125px;
+    width: 125px;
+    background-image: url(img/nintendo.png);
+  }
+  li.lista2 {
+    list-style: none;
+  }
+  li.lista2::before {
+    content: '';
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    background-image: url(img/ps.png);
+  }
+  li.lista3 {
+    list-style: none;
+  }
+  li.lista3::before {
+    content: '';
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    background-image: url(img/xbox.png);
+  }
+  li.listta1{
+    list-style-type: lower-alpha;
+
+  }
+  li.listta2{
+    list-style-type: lower-alpha;
+  }
+  li.listta3{
+    list-style-type: lower-alpha;
+  }
+  li.listta4{
+    list-style-type: lower-alpha;
+  }
+  li.listta5{
+    list-style-type: lower-alpha;
+  }
+  li.listta6{
+    list-style-type: lower-alpha;
+  }
+  li.listta7{
+    list-style-type: lower-alpha;
+  }
+  li.listta8{
+    list-style-type: lower-alpha;
+  }
+  li.listta9{
+    list-style-type: lower-alpha;
+  }
+  ul.desordenada1{
+    list-style-type: square;
+  }
+  ol.ordenada1{
+    list-style-type: lower-roman;
+  }
+  h1{
+    text-transform: capitalize;
+  }
