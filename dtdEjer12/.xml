@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videojuego id="JEJEGOD">
+    <nombre>Red Dead Redemption 2 </nombre>
+    <fecha_creacion> 2019 </fecha_creacion>
+    <nota> 9,9349 </nota>
+    <programadores>
+        <programador id="1">
+            <nombre>Marto</nombre>
+            <apellidos>37</apellidos>
+            <dni>76825410L</dni>
+            <fecha_nacimiento> 09/01/1999</fecha_nacimiento>
+            <direccion>
+                <tipo_via> calle </tipo_via>
+                <nombre_via> Los chipres</nombre_via>
+                <codigo_postal> 27345 </codigo_postal>
+                <pais> Dinamarca </pais>
+            </direccion>
+        </programador>
+         <programador id="2">
+            <nombre> Yahya </nombre>
+            <apellidos> Guante </apellidos>
+            <dni>79239410P</dni>
+            <fecha_nacimiento> 09/07/1980 </fecha_nacimiento>
+            <direccion>
+                <tipo_via> calle </tipo_via>
+                <nombre_via> Movistar </nombre_via>
+                <codigo_postal> 90076 </codigo_postal>
+                <pais> Colombia </pais>
+            </direccion>
+        </programador>
+    <compania id="comp">
+        <nombre> Rockstar</nombre>
+        <NIF> 9098760909N </NIF>
+        <direccion>
+                <tipo_via> Paseo </tipo_via>
+                <nombre_via> Paseo del Monarca </nombre_via>
+                <codigo_postal> 28049 </codigo_postal>
+                <pais> España </pais>
+        </direccion>
+    <codigo_html_videojuego>
+        <![CDATA[ 
+        <html>
+            <head>
+                <title>Página web de el videojuego </title>
+                <link rel="stylesheet" href="../Videojuego_11/style.css">
+            </head>
+
+          <body>
+            <center>
+                <h1>Bienvenido</h1>
+            </center>
+            <center>
+                <h2 class="title">Red Dead Redemption 2</h2>
+            </center>
+            <center>
+                <img src="img/reddead.jpg" class="imagenn">
+            </center>
+        </body>
+        </html>
+        ]]>
+    </codigo_html_videojuego>
+</videojuego>
