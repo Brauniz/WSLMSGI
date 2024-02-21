@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<empresa NIF="123456789" pais="españa" fechaCreacion="2023-01-01">
+    <nombre>ABC Company</nombre>
+    <capitalSocial moneda="euros">50000</capitalSocial>
+    <direccion>
+        <tipoVia>calle</tipoVia>
+        <nombreVia>Ejemplo</nombreVia>
+        <CP>28001</CP>
+    </direccion>
+    <empleados>
+        <empleado DNI="12345678">
+            <nombre>Juan</nombre>
+            <apellidos>González Pérez</apellidos>
+            <extranjero>false</extranjero>
+            <fechaNacimiento>1990-03-12</fechaNacimiento>
+            <salario>2500</salario>
+            <direccion>
+                <stringDireccion>Calle Mayor, 10</stringDireccion>
+                <pais>españa</pais>
+            </direccion>
+            <estaCasado>true</estaCasado>
+        </empleado>
+        <empleado DNI="87654321">
+            <nombre>Maria</nombre>
+            <apellidos>López Fernandez</apellidos>
+            <extranjero>false</extranjero>
+            <fechaNacimiento>1988-07-20</fechaNacimiento>
+            <salario>3500</salario>
+            <direccion>
+                <stringDireccion>Plaza España, 5</stringDireccion>
+                <pais>españa</pais>
+            </direccion>
+        </empleado>
+    </empleados>
+</empresa>
