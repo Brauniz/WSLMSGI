@@ -1,0 +1,52 @@
+{
+    "videojuego": {
+      "id": "JEJEGOD",
+      "nombre": "Red Dead Redemption 2",
+      "fecha_creacion": "2019",
+      "nota": "9,9999",
+      "programadores": {
+        "programador": [
+          {
+            "id": "1",
+            "nombre": "Marto",
+            "apellidos": "37",
+            "dni": "76089410L",
+            "fecha_nacimiento": "09/09/1999",
+            "direccion": {
+              "tipo_via": "calle",
+              "nombre_via": "Los alambres",
+              "codigo_postal": "20345",
+              "pais": "Hungría"
+            }
+          },
+          {
+            "id": "2",
+            "nombre": "Adam",
+            "apellidos": "Jefe",
+            "dni": "76089410P",
+            "fecha_nacimiento": "12/07/1980",
+            "direccion": {
+              "tipo_via": "calle",
+              "nombre_via": "Telefónica",
+              "codigo_postal": "23076",
+              "pais": "Ecuador"
+            }
+          }
+        ]
+      },
+      "compania": {
+        "id": "comp",
+        "nombre": "Rockstar",
+        "NIF": "9099990909N",
+        "direccion": {
+          "tipo_via": "Paseo",
+          "nombre_via": "Paseo del Rey",
+          "codigo_postal": "28049",
+          "pais": "España"
+        }
+      },
+      "codigo_html_videojuego": {
+        "cdata": "\n        <html>\n            <head>\n                <title>Página web de el videojuego </title>\n                <link rel=\"stylesheet\" href=\"../Videojuego_11/style.css\">\n            </head>\n\n          <body>\n            <center>\n                <h1>Bienvenido</h1>\n            </center>\n            <center>\n                <h2 class=\"title\">Red Dead Redemption 2</h2>\n            </center>\n            <center>\n                <img src=\"img/reddead.jpg\" class=\"imagenn\">\n            </center>\n        </body>\n        </html>\n        "
+      }
+    }
+  }
