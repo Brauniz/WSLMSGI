@@ -1,0 +1,14 @@
+body{
+    background-image: url(../cars/img/fondo.jpg);
+    background-position: center;
+    border: green;
+    margin: 40px;
+}
+ section.seccion1{
+    text-size-adjust: 40px;
+
+ }  
+ section.seccion2{
+    height: 40px;
+    width: 40px;
+ }  
