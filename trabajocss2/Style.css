@@ -1,0 +1,42 @@
+body{
+    background-image: url(../trabajocss2/img/GOJO.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+section.seccion1{
+    color: rgb(165, 8, 8);
+}
+section.seccion2{
+    color: rgb(165, 8, 8);
+}
+article.articulo1{
+    color: aqua;
+}
+.nobara{
+    height: 500px;
+    width: 500px;
+}
+.manga{
+   height: 60%;
+    width: 60%
+}
+.personajes{
+    height: 60%;
+    width: 60%;
+}
+.personajes2{
+    height: 500px;
+    width: 500px;
+}
+h1{
+    font-size: 100px;
+    color: red;
+}
+h2.cabecera{
+    color: red;
+    font-size: 10px;
+}
+h2.cabecera2{
+    color: red;
+    font-size: 2em;
+}
