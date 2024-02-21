@@ -1,0 +1,103 @@
+body{
+    background-image: url(../img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+    background-position: center;
+    border: rgb(255, 255, 255) 8px solid;
+    margin: 40px;
+}
+.rayo{
+    height: 70%;
+    width: 70%;
+    background-position: center;
+}
+.ramirez{
+    height: 70%;
+    width: 70%;
+    background-position: center;
+}
+.storm{
+    height: 70%;
+    width: 70%;
+    background-position: center;
+}
+.sterling{
+    height: 70%;
+    width: 70%;
+    background-position: center;
+}
+.mater{
+    height: 70%;
+    width: 70%;
+    background-position: center;
+}
+.luigi{
+    height: 70%;
+    width: 70%;
+    background-position: center;
+}
+.guido{
+    height: 70%;
+    width: 70%;
+}
+h2.titulo1{
+    font-size: 60px;
+    color: red;
+}
+h1{
+    font-size: 110px;
+    color: red;
+}
+p.parrafo1{
+    font-size: 40px;
+    color: red;
+}
+h2.titulo2{
+    font-size: 60px;
+    color: red;
+}
+article.articulo1{
+    font-size: 40px;
+}
+p.parrafo2{
+    font-size: 40px;
+    color: red;
+    border: white 2px solid;
+    margin: 20px;
+}
+dt.li1{
+    color: red;
+    border: red 5px solid;
+    margin: 20px;
+}
+dt.li2{
+    color: yellow;
+    border: yellow 5px solid;
+    margin: 20px;
+}
+dt.li3{
+    color: gray;
+    border: grey 5px solid;
+    margin: 20px;
+}
+dt.li4{
+    color: blue;
+    border: blue 5px solid;
+    margin: 20px;
+}
+dt.li5{
+    color: brown;
+    border: brown 5px solid;
+    margin: 20px;
+}
+dt.li6{
+    color: rgb(251, 213, 2);
+    border: rgb(251, 213, 2) 5px solid;
+    margin: 20px;
+}
+dt.li7{
+    color: rgb(16, 119, 236);
+    border: rgb(16, 119, 236) 5px solid;
+    margin: 20px;
+}
