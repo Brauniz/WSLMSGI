@@ -1,0 +1,40 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca id="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="tu_esquema.xsd">
+  <nombre>Nombre de la Biblioteca</nombre>
+  <seccion categoria="Ficcion">
+    <libro>
+      <titulo>Libro de Ficcion 1</titulo>
+      <autor>Autor Ficticio</autor>
+      <anio>2020</anio>
+      <resumen>Resumen del libro de ficción 1</resumen>
+      <editorial>
+        <nombre>Editorial Ficcion</nombre>
+        <ciudad>Ciudad Ficticia</ciudad>
+        <codigo>EF123</codigo>
+      </editorial>
+    </libro>
+    <libro>
+      <titulo>Libro de Ficcion 2</titulo>
+      <autor>Otro Autor Ficticio</autor>
+      <anio>2021</anio>
+      <resumen>Resumen del libro de ficción 2</resumen>
+      <editorial>
+        <nombre>Otra Editorial Ficcion</nombre>
+        <ciudad>Otra Ciudad Ficticia</ciudad>
+        <codigo>OF456</codigo>
+      </editorial>
+    </libro>
+  </seccion>
+  <seccion categoria="NoFiccion">
+    <libro>
+      <titulo>Libro de No Ficción 1</titulo>
+      <autor>Autor No Ficticio</autor>
+      <resumen>Resumen del libro de no ficción 1</resumen>
+      <editorial>
+        <nombre>Editorial No Ficcion</nombre>
+        <ciudad>Ciudad Real</ciudad>
+      </editorial>
+    </libro>
+  </seccion>
+</biblioteca>
